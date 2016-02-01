@@ -39,15 +39,16 @@ O contrato exige o depósito de uma quantidade de Bitcoins. A quantidade vai def
 
 Haverá outras regras a ser elaborada de acordo com novas necessidades.
 
-*Talvez seja necessário desenvolver um "trigger" para que o contrato verifique se o PDF está disponível. Ou donos de contratos de arbitragem (ou seja, outras exchanges) pondem "acionar" uma votação para cobrar do contratante a disponibilidade do contrato dele. O contratande não exibir defesa será considerado quebra de contrato. Podendo haver sanções como por exemplo congelamento dos depósitos que estão no contrato.
+*Talvez seja necessário desenvolver um "trigger" para que o contrato verifique se o PDF está disponível. Ou donos de contratos de arbitragem (ou seja, outras exchanges) pondem "acionar" uma votação para cobrar do contratante a disponibilidade do contrato dele. O contratante não exibir defesa será considerado quebra de contrato. Podendo haver sanções como por exemplo congelamento dos depósitos que estão no contrato. Ou solver todos os débitos e devolver o restante dos Bitcoins retidos no contrato.
 
 ###Sub-contrato de arbitragem:
 
 É um contrato que só o cliente da instituição (entidade? exchange? banco? instituição financeira?) pode gerar através do sistema da instituição. Esse contrato liga o cliente e a exchange ao contrato especifico. E ele será debitado posteriormente em nome da instituição que lhe é destinado.
 
 A instituição deve inserir espaços de entrada de dados ou gerar automaticamente o preenchimento dos mesmos que são:
-* Endereço do contrato destinatário.
-* Endereço do sub-contrato do requerente. (quem está enviando dinheiro para outra instituição)
+* Endereço do contrato destinatário. (exemplo Exchange "B")
+* Endereço do sub-contrato destinatário. (ex: Carteira "ExchangeBtxyiaskspleeixcmlpkwuiiksllaç")
+* Endereço do sub-contrato do requerente. (Carteira de quem está enviando dinheiro para outra instituição preenchido automaticamente pela API)
 * Endereço da instituição (que irá ser preenchido automaticamente pela API)
 * A quantidade em reais a ser enviada.
 * Dados pessoais do cliente para avaliação da instituição de destino.
@@ -56,11 +57,12 @@ A instituição deve inserir espaços de entrada de dados ou gerar automaticamen
 
 ###Sub-contrato de ordem de pagamento via parceiros de instituição:
 
-É um contrato que só o cliente da instituição pode gerar através do sistema da instituição. Esse contrato liga o cliente, a exchange e um empreendedor terceiro ao contrato especifico. E ele será debitado posteriormente em nome do empreendedor (terceiros) que lhe é autorizado pela exchange. E a exchange é responsável por repassar o pagamento ao empreendedor.
+É um contrato que só o cliente da instituição pode gerar através do sistema da instituição. Esse contrato liga o cliente, a exchange e um empreendedor terceiro ao contrato especifico que é destinado a quem tem o QR-Code que libera o contrato. E ele será debitado posteriormente em nome do empreendedor (terceiros) que lhe é autorizado pela exchange e tem conta na mesma. E a exchange é responsável por repassar o pagamento ao empreendedor.
 
 A instituição deve inserir espaços de entrada de dados ou gerar automaticamente o preenchimento dos mesmos que são:
-* Endereço do contrato destinatário.
-* Endereço do sub-contrato do requerente. (quem está enviando dinheiro para outra instituição)
+* Endereço do contrato destinatário. (exemplo Exchange "B")
+* Endereço do sub-contrato destinatário. (ex: Carteira "ExchangeBtxyiaskspleeixcmlpkwuiiksllaç")
+* Endereço do sub-contrato do requerente. (Carteira de quem está enviando dinheiro para outra instituição preenchido automaticamente pela API)
 * Endereço da instituição (que irá ser preenchido automaticamente pela API)
 * A quantidade em reais a ser enviada.
 * Dados pessoais do cliente para avaliação da instituição de destino.
@@ -72,8 +74,9 @@ A instituição deve inserir espaços de entrada de dados ou gerar automaticamen
 É um contrato que só o cliente da instituição pode gerar através do sistema da instituição. Esse contrato liga o cliente e a exchange ao contrato especifico. E ele será debitado posteriormente em nome do empreendedor (terceiros) que não é ligado a alguma exchange. E a Arbithereum é responsável por repassar o pagamento ao empreendedor via os mesmo modelo de contratos inteligentes.
 
 A instituição deve inserir espaços de entrada de dados ou gerar automaticamente o preenchimento dos mesmos que são:
-* Endereço do contrato destinatário.
-* Endereço do sub-contrato do requerente. (quem está enviando dinheiro para outra instituição)
+* Endereço do contrato destinatário. (exemplo Exchange "B")
+* Endereço do sub-contrato destinatário. (ex: Carteira "ExchangeBtxyiaskspleeixcmlpkwuiiksllaç")
+* Endereço do sub-contrato do requerente. (Carteira de quem está enviando dinheiro para outra instituição preenchido automaticamente pela API)
 * Endereço da instituição (que irá ser preenchido automaticamente pela API)
 * A quantidade em reais a ser enviada.
 * Dados pessoais do cliente para avaliação da instituição de destino.
@@ -85,8 +88,9 @@ A instituição deve inserir espaços de entrada de dados ou gerar automaticamen
 É um contrato que só o parceiro da instituição (entidade? exchange? banco? instituição financeira?) pode gerar através do sistema da instituição. Esse contrato liga o parceito e a exchange ao contrato especifico. E ele será debitado posteriormente em nome do cliente da instituição devidamente informado, que então lhe é destinado.
 
 A instituição deve inserir espaços de entrada de dados ou gerar automaticamente o preenchimento dos mesmos que são:
-* Endereço do contrato destinatário.
-* Endereço do sub-contrato do requerente. (quem está enviando dinheiro para outra instituição)
+* Endereço do contrato destinatário. (exemplo Exchange "B")
+* Endereço do sub-contrato destinatário. (ex: Carteira "ExchangeBtxyiaskspleeixcmlpkwuiiksllaç")
+* Endereço do sub-contrato do requerente. (Carteira de quem está enviando dinheiro para outra instituição preenchido automaticamente pela API)
 * Endereço da instituição (que irá ser preenchido automaticamente pela API)
 * A quantidade em reais a ser enviada.
 * Dados pessoais do cliente para avaliação da instituição de destino.
