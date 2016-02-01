@@ -4,6 +4,15 @@ PS. neste momento o modelo está em "rascunho".
 Imagem com diagrama do projeto https://scontent-gru2-1.xx.fbcdn.net/hphotos-xtf1/t31.0-8/s960x960/12633715_10209067863563857_8838783255422100994_o.jpg
 
 
+#####Tópicos a serem adicionados e resolvidos: <br>
+- Benefícios do negócio <br>
+- Ramificação técnica <br>
+- Problemas de colisão lógica da solução (leis estatais de um ou mais países) <br>
+- Solução de colisões <br>
+- Teorias economicas aplicáveis <br>
+
+
+
 #Estrutura incial
 
 
