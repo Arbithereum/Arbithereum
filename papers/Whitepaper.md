@@ -24,7 +24,7 @@ A ideia partiu de problemas que exchanges brasileiras enfrentavam ao ter suas co
 
 Onde em um cenário em que bancos passam a negar a abertura de contas de clientes e exchanges, que compram e vendem Bitcoins e outras Altcoins, favorece-os de forma justa e descentralizada. O Arbithereum viria para tomar o papel que o banco fazia e agora se nega a fazer por vontade própria, por decisões sem base lógica. Até o momento nem um representante do governo brasileiro abriu qualquer restrição, regulação ou proibição do uso de Bitcoins. Então não faria sentido um banco punir seus clientes assim. Por isso o Arbithereum se faz necessário.
 
-As estruturas de taxas seria elaboradas pelos contratantes em suas próprias plataformas. Mas como o Arbithereum utiliza uma plataforma Ethereum, há taxas próprias a se pagar por transação. Então o contratante deve fazer suas "contas" para decidir quanto cobrar de seus clientes por "sub-contratos".
+As estruturas de taxas seriam elaboradas pelos contratantes em suas próprias plataformas. Mas como o Arbithereum utiliza uma plataforma Ethereum, há taxas próprias a se pagar por transação. Então o contratante deve fazer suas "contas" para decidir quanto cobrar de seus clientes por "sub-contratos".
 
 
 #Estrutura incial
