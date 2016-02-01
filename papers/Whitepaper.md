@@ -33,7 +33,7 @@ Um cancelamento de contrato vai automaticamente pagar todos os débitos. E se pr
 
 ###Contrato de arbitragem:
 
-O contrato exige que o contratante adicine dados dele mesmo. CNPJ é um exemplo. Para motivos de verificação o CNPJ deve estar em um PDF registrado em sites como "originalmy" e haverá um campo no contrato onde o contratante deve inserir os dados de Hash gerado pelo certificado do site. O PDF deve está disponível o tempo todo*. Pode ser solicitado Website com "trigger" verificando se o site responde e está "online". Seria necessário uma API, e também verificar se a plataforma Ethereum pode gerar triggers do tipo.
+O contrato exige que o contratante adicione dados dele mesmo. CNPJ é um exemplo. Para motivos de verificação o CNPJ deve estar em um PDF registrado em sites como "originalmy" e haverá um campo no contrato onde o contratante deve inserir os dados de Hash gerado pelo certificado do site. O PDF deve está disponível o tempo todo*. Pode ser solicitado Website com "trigger" verificando se o site responde e está "online". Seria necessário uma API, e também verificar se a plataforma Ethereum pode gerar triggers do tipo.
 
 O contrato exige o depósito de uma quantidade de Bitcoins. A quantidade vai definir o "limite" de quanto (em reais) ele pode "emitir" em contratos para seus clientes em sua própria plataforma.
 
