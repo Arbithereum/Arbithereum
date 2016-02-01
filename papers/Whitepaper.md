@@ -96,3 +96,6 @@ A instituição deve inserir espaços de entrada de dados ou gerar automaticamen
 * Dados pessoais do cliente para avaliação da instituição de destino.
 * Um campo contendo URL de um jpeg contendo preferencialmente a foto do cliente.
 * CPF do cliente requerente. (pode ser preenchido pela API da instituição que já o tem em cadastro)
+
+
+Obrigado pelo seu tempo!
