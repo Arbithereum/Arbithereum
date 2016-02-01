@@ -14,7 +14,7 @@ Imagem com diagrama do projeto https://scontent-gru2-1.xx.fbcdn.net/hphotos-xtf1
 
 #Resumo
 
-Todo o projeto é feito na plataforma Ethereum, porém, a ideia em si, pode ser aplicada a qualquer plataforma que crie Dapp (como Dash) ou mesmo copiando projetos como Bitcoin e iniciando uma plataforma em si. O que requer mais recurso e tempo. Ethereum não requer tanto recurso. Lembre que esse projeto é baseado em lincença GNU.
+Todo o projeto é feito na plataforma Ethereum, porém, a ideia em si, pode ser aplicada a qualquer plataforma que crie Dapp (como Dash) ou mesmo copiando projetos como Bitcoin e iniciando uma plataforma em si. O que requer mais recurso e tempo. Ethereum não requer tanto recurso. Lembre que esse projeto é baseado em licença GNU.
 
 Está é uma proposta levemente complexa de ser efetivada, não por conta de codificação, mas de problemas lógicos de colisão com leis de vários países. Porém, os resultados da ideia para o atual senário brasileiro ou de qualquer outro país (Venezuela? Paises pobres da Africa?) são de grande utilidade e vem a calhar. Eliminando até o uso de papéis em modelos parecidos (como Boleto Bancário).
 
