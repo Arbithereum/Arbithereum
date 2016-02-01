@@ -27,7 +27,7 @@ Um cancelamento de contrato vai automaticamente pagar todos os débitos. E se pr
 É um contrato que age como uma ordem de pagamento que vai via Arbithereum que não são ligados a uma instituição especifica, são autonomos. Os valores enviados ficam "retidos" pelo contrato até o destinatário comparecer com o QR-Code que pode liberar essa ordem de pagamento. Podemos implementar também uma "autenticação em dois passos" para ordem de pagamento.
 
 #####Sub-contrato de depósito via parceiros de instituição.
-É um contrato que age como uma depósito que vai para um instituição que aceita depósitos desta origem (ele pode ser parceiro ou autonomo). Os valores depositados ficam "retidos" pelo contrato até o destinatário comparecer com o QR-Code que pode liberar essa ordem de pagamento. 
+É um contrato que age como uma depósito que vai para um instituição que aceita depósitos desta origem (ele pode ser parceiro ou autonomo). Os valores depositados ficam "retidos" pelo contrato até o destinatário (no caso uma instituição, ex: Exchange) der baixa com o QR-Code que pode liberar essa ordem de pagamento. Ao faze isso ele reconhece que houve o depósito de fato. E o sistema credita automaticamente. Erros humanos são resolvidos entre as partes.  
 
 ##Mais detalhes
 
