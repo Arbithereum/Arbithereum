@@ -12,6 +12,12 @@ Imagem com diagrama do projeto https://scontent-gru2-1.xx.fbcdn.net/hphotos-xtf1
 - Teorias economicas aplicáveis <br>
 
 
+#Resumo
+
+Está é uma proposta levemente complexa de ser efetivada, mas os resultados dela para o atual senário brasileiro ou de qualquer outro país (Venezuela? Paises pobres da Africa?) são de grande utilidade e vem a calhar. locais onde pessoas não tem acesso a tecnologia, mas entendem como funciona um "check" por exemplo. A ideia partiu de problemas que exchanges brasileiras enfrentavam ao ter suas contas bancárias canceladas. Tanto clientes como exchanges eram punidos com cancelamento de contas. O modelo trás primordialmente duas soluções. A "brincadeira" de arbitragem entre exchanges e a possibilidade de um sistema mais eficiente que "boleto bancário". 
+
+Onde em um cenário em que bancos passam a negar a abertura de contas de clientes e exchanges, que compram e vendem Bitcoins e outras Altcoins, favorece-os de forma justa e descentralizada. O Arbithereum viria para tomar o papel que o banco fazia e agora se nega a fazer por vontade própria, por decisões sem base lógica. Até o momento nem um representante do governo brasileiro abriu qualquer restrição, regulação ou proibição do uso de Bitcoins. Então não faria sentido um banco punir seus clientes assim. Por isso o Arbithereum se faz necessário.
+
 
 #Estrutura incial
 
